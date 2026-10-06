@@ -7,6 +7,7 @@ you, run the following:
 
 ```sh
 brew tap paemuri/pkgs
+brew trust paemuri/pkgs # Or do individually by package
 ```
 
 ## Packages
