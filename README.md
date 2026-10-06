@@ -19,7 +19,7 @@ brew trust paemuri/pkgs # Or do individually by package
 #### Installation
 
 ```sh
-brew tap paemuri/pkgs
+# Run tap and trust, documented in "About"
 brew install torresmo
 ```
 
