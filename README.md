@@ -11,11 +11,26 @@ brew tap paemuri/pkgs
 
 ## Packages
 
-- [torresmo][1]
+### Torresmo
+
+> [homepage][1] | [repository][2]
+
+#### Installation
+
+```sh
+brew tap paemuri/pkgs
+brew install torresmo
+```
+
+Or directly:
+
+```sh
+brew install paemuri/pkgs/torresmo
+```
 
 ## License
 
-This project code is in the public domain. See the [LICENSE file][2].
+This project code is in the public domain. See the [LICENSE file][3].
 
 ### Contribution
 
@@ -24,4 +39,5 @@ for inclusion in the work by you shall be in the public domain, without any
 additional terms or conditions.
 
 [1]: https://sr.ht/~paemuri/torresmo
-[2]: ./LICENSE
+[2]: https://git.sr.ht/~paemuri/torresmo
+[3]: ./LICENSE
