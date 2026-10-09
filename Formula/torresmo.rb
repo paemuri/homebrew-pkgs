@@ -1,8 +1,8 @@
 class Torresmo < Formula
   desc "Dead simple and minimal TUI client for the Transmission daemon"
   homepage "https://sr.ht/~paemuri/torresmo"
-  url "https://git.sr.ht/~paemuri/torresmo/archive/v1.0.3.tar.gz"
-  sha256 "740d677a1eb0677f9c71033305b7e43b1725fe9ba08fdce44d6fc83287c7d73d"
+  url "https://static.crates.io/crates/torresmo/torresmo-1.0.5.crate"
+  sha256 "ca9bcef02b72346ae3af1a8a8337236ddfe65b9cd301e4462c9f965f49c08acd"
   license "Unlicense"
 
   depends_on "rust" => :build
