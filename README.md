@@ -1,5 +1,7 @@
 # Homebrew pkgs
 
+[![License][badge-1-img]][badge-1-link]
+
 ## About
 
 This repo maintains Homebrew packages. To enable them to be installed locally by
@@ -45,6 +47,9 @@ for inclusion in the work by you shall be in the public domain, without any
 additional terms or conditions.
 
 [1]: https://sr.ht/~paemuri/torresmo
+
+[badge-1-img]: https://img.shields.io/badge/license-Unlicense-green?style=flat-square
+[badge-1-link]: ./LICENSE
 
 [source-srht]: https://git.sr.ht/~paemuri/homebrew-pkgs
 [source-github]: https://github.com/paemuri/homebrew-pkgs
