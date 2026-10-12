@@ -14,7 +14,7 @@ brew trust paemuri/pkgs # Or do individually by package
 
 ### Torresmo
 
-> [homepage][1] | [repository][2]
+> [homepage][1]
 
 #### Installation
 
@@ -29,16 +29,23 @@ Or directly:
 brew install paemuri/pkgs/torresmo
 ```
 
-## License
+## Source code
 
-This project code is in the public domain. See the [LICENSE file][3].
+The main repository is on [SourceHut][source-srht]. A mirror exists on
+[GitHub][source-github] for convenience, but it might occasionally be
+outdated.
 
-### Contribution
+### License and contribution
+
+This project's code is in the public domain. See the
+[LICENSE file][source-license].
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in the work by you shall be in the public domain, without any
 additional terms or conditions.
 
 [1]: https://sr.ht/~paemuri/torresmo
-[2]: https://git.sr.ht/~paemuri/torresmo
-[3]: ./LICENSE
+
+[source-srht]: https://git.sr.ht/~paemuri/homebrew-pkgs
+[source-github]: https://github.com/paemuri/homebrew-pkgs
+[source-license]: ./LICENSE
